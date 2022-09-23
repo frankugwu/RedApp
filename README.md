@@ -6,6 +6,7 @@
 
 ### Technologies 
 - Spring MVC
+- ping
 - Spring Security
 - Spring Data JPA
 - Maven
