@@ -11,6 +11,7 @@
 - pull
 - push
 - pull
+- pass
 - pulls
 - Spring Security
 - Spring Data JPA
