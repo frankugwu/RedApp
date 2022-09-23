@@ -9,6 +9,7 @@
 - ping
 - ping
 - pull
+- push
 - Spring Security
 - Spring Data JPA
 - Maven
