@@ -10,6 +10,7 @@
 - ping
 - pull
 - push
+- post
 - pull
 - pass
 - pulls
