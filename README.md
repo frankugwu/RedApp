@@ -2,7 +2,7 @@
 #
 - JDK 1.8 or later
 - Maven 3 or later
-- MySQL 5.6 or later
+- MySQL 5.6 or laters
 
 # Technologies 
 - Spring MVC
@@ -10,7 +10,6 @@
 - Spring Data JPA
 - Maven
 - JSP
-- uion
 - MySQL
 # Database
 Here,we used Mysql DB 
